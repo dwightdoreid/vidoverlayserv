@@ -2,7 +2,8 @@
 """
 Created on Thu Jun 16 10:59:18 2016
 
-@author: dwight
+@author: dwight reid
+License: GNU Affero General Public License
 """
 
 
