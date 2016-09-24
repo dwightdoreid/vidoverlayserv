@@ -139,7 +139,7 @@ def getCpuData():
 cv2.namedWindow('overlayedVideo')
 cv2.setMouseCallback('overlayedVideo',addData)
 
-img = cv2.imread("icon.jpg")
+img = cv2.imread("icon2.jpg")
 
 img = removeWhite(img)
 
